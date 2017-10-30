@@ -6,7 +6,7 @@
 
 &lt;role rolename="admin-gui"/&gt;
 
-&lt;role rolename="manager-gui"/&gt;
+&lt;role rolename="manager-script"/&gt;
 
-&lt;user username="admin" password="admin" roles=" admin-gui , manager-gui "/&gt;即可
+&lt;user username="admin" password="admin" roles="admin-gui,manager-script"/&gt;即可
 
